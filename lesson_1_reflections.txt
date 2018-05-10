@@ -1,0 +1,31 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+    By eliminating all the code and only showing what was added and removed in the files, it was easier to spot the errors and differences in the code.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+    This would help with writing error free code and finding errors while providing a tool that saves time.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+The pros to having the ability to choose when to create a commit keeps the revisions organized with one logical fix instead of multiple fixes at once. The con is you have to remember to save and also be careful not to save too many changes or too little. It should be a logical commit.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Git hub is a collaboration tool that saves projects with multiple files that are part of the same project. Google Docs saves files that are not connected to other docs so it automatically saves file in the systems when you close a file. Git hub lets you find a previous version and let you edit that version. Google docs saves over the previous version you can't go back once a documnent is saved.
+
+How can you use the commands git log and git diff to view the history of files? You can use git log to view previous branch versions to troubleshoot for bugs that were introduced earlier in the programming process. You can use git diff to see what was eddited in the previous files by comparing the sections that were updated. You can also use a directory command to view the edits in color.
+
+How might using version control make you more confident to make changes that could break something? Version control serves as an archive that you can use to test and experiment with code and not worry about losing your previous edits. With version control you can go back and find a point where the program worked properly or before a bug was introduced.
+
+Now that you have your workspace set up, what do you want to try using Git for? I am taking this tutorial to assist the technology department with git related projects and to get a better understanding on how this collaboration tool works.
+
+
+
+
+
+
+
+  
+
+
+
+
